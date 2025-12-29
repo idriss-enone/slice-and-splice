@@ -2,7 +2,8 @@
 
 ## Objectif
 
-Créer une fonction JavaScript capable de fusionner deux tableaux en insérant les éléments du premier tableau dans le second, à partir d’un index donné. 
+Créer une fonction JavaScript capable de fusionner deux tableaux en insérant les éléments du premier tableau dans le second, à partir d’un index donné.
+
 ---
 
 ## Description du projet
